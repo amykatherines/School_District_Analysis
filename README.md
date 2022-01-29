@@ -30,14 +30,14 @@ The comparision of District metrics shows a slight decrease in the districts Mat
 
 ### School Summary
 
-As seen below, when comparing looking at Thomas High School results specifically, we see a similar slight decrease in Math scores and percent passing in Math and Reading. However, **Reading scores improved** when the suspected dishonest grades were removed.    
+As seen below, when comparing looking at Thomas High School results specifically, we see a similar slight decrease in Math scores and percent passing in Math and Reading. However, **reading scores improved** when the suspected dishonest grades were removed.    
 The results below are sorted on overall percentage passing which reveals that the school rankings did not change when the suspect grades were removed.  
 
 *All Students*     
 ![All Students School Summary](Resources/school_summary_sorted_overall_passing.png)
 
 *Thomas High 9th Grade Students Removed*  
-
+![THS 9th Removed School Summary](Resources/school_summary_sorted_overall_passing_THS9_removed.png)
 
 ### Grade Level Results
 
@@ -79,3 +79,11 @@ The average scores and passing percentages based on School Type remain the same 
 
 *Thomas High 9th Grade Students Removed*
 ![THS 9th Removed School Type](Resources/school_type_THS9_removed.png)
+
+##Summary
+
+As discussed, the district analysis without Thomas High School's 9th grade had changed in the following ways:
+
+1. District level average math scores were .1 point lower
+2. District level percent passing math was  .2% lower
+3. District level percent passing reading was .
