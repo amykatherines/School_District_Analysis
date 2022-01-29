@@ -18,4 +18,14 @@ The initial results and data provided created concerns that there was possible a
 
 Below we will present both sets of results to show the impact of removing the THS 9th graders.  
 
-#
+### District Summary
+
+The comparision of District metrics shows a slight decrease in the districts Math scores (.1 point) and passing percentages (.1-.2%) when THS 9th graders are removed.  The reading score was unaffected.
+
+*All Students*     
+![All Students District Summary](Resources/district_summary.png)
+
+*Thomas High 9th Grade Students Removed*  
+![THS 9th Removed District Summary](Resources/district_summary_THS9_removed.png)
+
+## 
