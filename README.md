@@ -28,4 +28,12 @@ The comparision of District metrics shows a slight decrease in the districts Mat
 *Thomas High 9th Grade Students Removed*  
 ![THS 9th Removed District Summary](Resources/district_summary_THS9_removed.png)
 
-## 
+### School Summary
+
+As seen below, when comparing looking at Thomas High School results specifically, we see a similar slight decrease in Math scores and percent passing in Math and Reading. However, **Reading scores improved** when the suspected dishonest grades were removed.    
+
+*All Students*     
+![All Students District Summary](Resources/school_summary_sorted_overall_passing.png)
+
+*Thomas High 9th Grade Students Removed*  
+![THS 9th Removed District Summary](Resources/school_summary_sorted_overall_passing_THS9_removed.png)
