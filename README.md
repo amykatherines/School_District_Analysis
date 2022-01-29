@@ -50,3 +50,12 @@ When the dataset is created for the school/grade-level view on Reading and Math 
 *Reading - All Students (left); Thomas High 9th Grade Students Removed (right)*  
 ![All Students Reading Grade Level Results](Resources/school_reading_by_grade.png) ![THS 9th Removed Reading Grade Level Results](Resources/school_reading_by_grade_THS9_removed.png)
 
+### Scores by School Spending
+
+*All Students*
+![All Students Spending](Resources/spending_ranges.png) 
+
+*Thomas High 9th Grade Students Removed*
+![THS 9th Removed Spending](Resources/spending_ranges_THS9_removed.png)
+
+
