@@ -31,9 +31,22 @@ The comparision of District metrics shows a slight decrease in the districts Mat
 ### School Summary
 
 As seen below, when comparing looking at Thomas High School results specifically, we see a similar slight decrease in Math scores and percent passing in Math and Reading. However, **Reading scores improved** when the suspected dishonest grades were removed.    
+The results below are sorted on overall percentage passing which reveals that the school rankings did not change when the suspect grades were removed.  
 
 *All Students*     
-![All Students District Summary](Resources/school_summary_sorted_overall_passing.png)
+![All Students School Summary](Resources/school_summary_sorted_overall_passing.png)
 
 *Thomas High 9th Grade Students Removed*  
-![THS 9th Removed District Summary](Resources/school_summary_sorted_overall_passing_THS9_removed.png)
+
+
+### Grade Level Results
+
+When the dataset is created for the school/grade-level view on Reading and Math scores, the 9th Grade THS value is now "nan" for the second set of data analyzed.  "nan" indicates that there is no values to be evaluated for that cross-section.
+
+*Math - All Students (left); Thomas High 9th Grade Students Removed (right)*  
+![All Students Math Grade Level Results](Resources/school_math_by_grade.png) ![THS 9th Removed Math Grade Level Results](Resources/school_math_by_grade_THS9_removed.png)
+
+
+*Reading - All Students (left); Thomas High 9th Grade Students Removed (right)*  
+![All Students Reading Grade Level Results](Resources/school_reading_by_grade.png) ![THS 9th Removed Reading Grade Level Results](Resources/school_reading_by_grade_THS9_removed.png)
+
