@@ -62,7 +62,7 @@ To analyze the affects of per student spend on test results, we divided schools 
 
 ### Scores by School Size
 
-Like we saw with the School Spending analysis, the results for the school size comparison are the same with or without the 9th Grade THS grades.  If more precision was shown, there would be some difference in the Medium Sized schools.  
+Like we saw with the School Spending analysis, the results for the school size comparison are the same with or without the 9th Grade THS grades.  If more precision was shown, there would be some difference in the Medium Sized schools which THS is a part of.  
 
 *All Students*                  
 ![All Students](Resources/school_size.png) 
@@ -70,7 +70,9 @@ Like we saw with the School Spending analysis, the results for the school size c
 *Thomas High 9th Grade Students Removed*
 ![THS 9th Removed](Resources/school_size_THS9_removed.png)
 
-### School Type
+### Scores by School Type
+
+The average scores and passing percentages based on School Type remain the same for when 9th Grade THS grades are removed.  If more precision were shown, there would be slight differences in the Charter school statistics.
 
 *All Students*                  
 ![All Students School Type](Resources/school_type.png) 
