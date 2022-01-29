@@ -82,8 +82,10 @@ The average scores and passing percentages based on School Type remain the same 
 
 ##Summary
 
-As discussed, the district analysis without Thomas High School's 9th grade had changed in the following ways:
+As discussed, the PyCity standardized test results without Thomas High School's 9th grade had changed in the following ways:
 
 1. District level average math scores were .1 point lower
 2. District level percent passing math was  .2% lower
-3. District level percent passing reading was .
+3. District level percent passing reading was .1% lower
+4. District level percent overall passing was .3% lower
+
