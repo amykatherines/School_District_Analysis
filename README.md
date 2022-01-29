@@ -52,10 +52,20 @@ When the dataset is created for the school/grade-level view on Reading and Math 
 
 ### Scores by School Spending
 
+To analyze the affects of per student spend on test results, we divided schools into 4 spending buckets.  Thomas High School spends $638 per student.  This puts them in the third spending bucket ($630-$644).  When combined with the other schools in this range, the results when rounded remain the same with or without the THS 9th grade students (if we presented more precision on the results, they would show slight differences in results).
+
 *All Students*
 ![All Students Spending](Resources/spending_ranges.png) 
 
 *Thomas High 9th Grade Students Removed*
 ![THS 9th Removed Spending](Resources/spending_ranges_THS9_removed.png)
 
+### Scores by School Size
 
+
+
+*All Students*                  
+![All Students Spending](Resources/school_size.png) 
+
+*Thomas High 9th Grade Students Removed*
+![THS 9th Removed Spending](Resources/school_size_THS9_removed.png)
