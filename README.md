@@ -12,7 +12,7 @@ PyCity schools asked for an analysis of the latest standardized testing results.
   * School Size
   * School Type
   
-The initial results and data provided created concerns that there was possible acedemic dishonesty in the Thomas High School (THS) 9th grade test scores. The school requested to see all the results without the THS 9th grade included in the averages and percentages. The following analysis is a discussion of how the results were impacted when the subset was removed.
+The initial results and data provided created concerns that there was possible academic dishonesty in the Thomas High School (THS) 9th grade test scores. The school requested to see all the results without the THS 9th grade included in the averages and percentages. The following analysis is a discussion of how the results were impacted when the subset was removed.
 
 ## Results
 
@@ -20,7 +20,7 @@ Below we will present both sets of results to show the impact of removing the TH
 
 ### District Summary
 
-The comparision of District metrics shows a slight decrease in the districts Math scores (.1 point) and passing percentages (.1-.2%) when THS 9th graders are removed.  The reading score was unaffected.
+The comparison of District metrics shows a slight decrease in the districts Math scores (.1 point) and passing percentages (.1-.2%) when THS 9th graders are removed.  The reading score was unaffected.
 
 *All Students*     
 ![All Students District Summary](Resources/district_summary.png)
@@ -31,6 +31,7 @@ The comparision of District metrics shows a slight decrease in the districts Mat
 ### School Summary
 
 As seen below, when comparing Thomas High School results specifically, we see a similar slight decrease in Math scores and percent passing in Math and Reading. However, **reading scores improved** when the suspected dishonest grades were removed.    
+
 The results below are sorted on overall percentage passing which reveals that the school rankings did not change when the suspect grades were removed.  
 
 *All Students*     
@@ -80,7 +81,7 @@ The average scores and passing percentages based on School Type remain the same 
 *Thomas High 9th Grade Students Removed*
 ![THS 9th Removed School Type](Resources/school_type_THS9_removed.png)
 
-##Summary
+## Summary
 
 As discussed, the PyCity standardized test results without Thomas High School's 9th grade had changed in the following ways:
 
