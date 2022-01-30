@@ -30,7 +30,7 @@ The comparision of District metrics shows a slight decrease in the districts Mat
 
 ### School Summary
 
-As seen below, when comparing looking at Thomas High School results specifically, we see a similar slight decrease in Math scores and percent passing in Math and Reading. However, **reading scores improved** when the suspected dishonest grades were removed.    
+As seen below, when comparing Thomas High School results specifically, we see a similar slight decrease in Math scores and percent passing in Math and Reading. However, **reading scores improved** when the suspected dishonest grades were removed.    
 The results below are sorted on overall percentage passing which reveals that the school rankings did not change when the suspect grades were removed.  
 
 *All Students*     
@@ -88,4 +88,7 @@ As discussed, the PyCity standardized test results without Thomas High School's 
 2. District level percent passing math was  .2% lower
 3. District level percent passing reading was .1% lower
 4. District level percent overall passing was .3% lower
+5. Thomas High School math scores, percent passing math, reading and overall were all lower after removing 9th graders
+6. Thomas High school average reading test score improved when the 9th grade scores were removed
+
 
